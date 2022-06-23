@@ -1,7 +1,7 @@
-👋 ola meu nome é @Danielluizborges
-👍 meu contato é [email](daniel.luiz.borges@escola.pr.gov.br)
-👀 estou mais interressado em ser jogador de futebol
-🌱 estou aprendendo a programar a luinguaguem do javascript e scrath
+- ola meu nome é @Danielluizborges
+-👍 meu contato é [email](daniel.luiz.borges@escola.pr.gov.br)
+-👀 estou mais interressado em ser jogador de futebol
+-🌱 estou aprendendo a programar a luinguaguem do javascript e scrath
 
 
 <!---
